@@ -172,5 +172,5 @@ the future as well because it is such and amazing ecosystem to work with . I am
 grateful for this mentorship that such good mentors have taught us and guided us
 on the way towards open source . Thanks to Shuah khan and David hunter .
 
-## This file is hosted on Github pages and can be visited using this link
-[Github](https://i-shihao.github.io/LFX_mentorship_blog/)
+## This file is also hosted on Github pages
+[Github](https://i-shihao.github.io/lfx-mentorship/)
