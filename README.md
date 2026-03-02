@@ -141,7 +141,9 @@ straight forward in terms of finding coding style and compliance issues.
 Here are some commands I used mostly during the mentorship
 
     make coccicheck MODE=report M=drive
+    
     smatch -p=kernel --file-output drivers/usb/core/*.c
+    
     find . -name "*.c" -exec  ~/linux-source/linux-git/scripts/checkpatch.pl --strict -f {} \;
 
 ## Reflection on my Mentors
